@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "IkO-ks-0f5"; */
+"IkO-ks-0f5.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "LMr-gI-3hs"; */
+"LMr-gI-3hs.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "NF7-ky-5LY"; */
+"NF7-ky-5LY.text" = "Title";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "RKW-cW-0Ub"; */
+"RKW-cW-0Ub.text" = "Date";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Xgd-WF-Xqu"; */
+"Xgd-WF-Xqu.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Feed Item"; ObjectID = "Xgr-7n-lW4"; */
+"Xgr-7n-lW4.title" = "Feed Item";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "coI-3z-aVK"; */
+"coI-3z-aVK.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "REMOVE"; ObjectID = "e7r-aC-OZ2"; */
+"e7r-aC-OZ2.normalTitle" = "REMOVE";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "wi2-dK-MX4"; */
+"wi2-dK-MX4.text" = "Date";

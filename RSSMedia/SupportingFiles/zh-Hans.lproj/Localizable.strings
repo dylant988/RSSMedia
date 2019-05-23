@@ -1,0 +1,15 @@
+"Back" = "返回";
+"SAVE" = "保存";
+"REMOVE" = "移除";
+"RSS Feeds" = "RSS推送";
+"My Feeds" = "我的推送";
+"Feed Item" = "推送条目";
+"Url is not correct." = "网址错误";
+"Could not receive data from server." = "无法接收到数据";
+"Time out in request." = "请求超时";
+"Error during parsing." = "解析错误";
+"Feed Saved" = "推送已保存";
+"No data" = "无数据";
+"Are you sure you want to remove this feed item" = "您确定要删除这条推送吗";
+"Confirm" = "确认";
+"Cancel" = "取消";
